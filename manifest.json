@@ -2,10 +2,21 @@
     "manifest_version" : 2,
     "version" : "1.0",
     "name" : "SuperSteel",
+
+      "author": "Shubhrendu Tripathi",
+         
+      "description":  "SuperSteel is a Firefox theme based on the DC Comics character Superman.",
+
+      "icons": {
+        "48": "icons/sm.png"
+      },
+
+
     "theme" : {
         "colors" : {
-            "accentcolor" : "#FFEB00" ,
-            "textcolor" : "#C80000"
+            "frame" : "#48A4D6",
+            "tab_background_text" : "#C80000",
+            "tab_selected" : "#FFEB00" 
         }
     }
 }
