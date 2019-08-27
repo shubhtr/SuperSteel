@@ -1,0 +1,12 @@
+{
+    "manifest_version" : 2,
+    "version" : "1.0",
+    "name" : "sequenceOne",
+    "theme" : {
+        "colors" : {
+            "accentcolor" : "#FFEB00" ,
+            "textcolor" : "#C80000"
+        }
+    }
+}
+

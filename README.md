@@ -8,7 +8,3 @@ A Firefox theme for Superman
 ## Description
 
 
-
-## References
-
-
