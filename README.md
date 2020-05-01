@@ -1,5 +1,8 @@
 # SuperSteel
-A Firefox theme for Superman
+A Firefox theme based on the comic book superhero, Superman
+
+## Description
+SuperSteel is a Firefox theme inspired by the DC Comics superhero, Superman.
 
 ## Author
 Shubhrendu Tripathi
